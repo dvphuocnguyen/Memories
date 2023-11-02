@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"vsicons.associations.files": [
+		{ "icon": "reactjs",  "extensions": ["jsx"], "format": "svg" }
+	  ]
 }
